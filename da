@@ -1,6 +1,6 @@
-local USER = 'dog4aday'
-local DISP_NAME = 'Ven0m'
-local USER_ID = 408399177
+local USER = 'King_Hashimi'
+local DISP_NAME = 'King_Hashimi'
+local USER_ID = 1519212846
 local PLAYER = game.Players.LocalPlayer
 
 local old_index
